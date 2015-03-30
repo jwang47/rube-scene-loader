@@ -1,6 +1,7 @@
 package com.stormpz.rube;
 
 import com.google.gson.annotations.SerializedName;
+import com.stormpz.rube.joint.RUBEJoint;
 
 import java.util.List;
 
